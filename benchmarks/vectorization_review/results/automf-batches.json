@@ -1,0 +1,125 @@
+{
+  "differential": [
+    {
+      "id": "automf/9/1001",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "automf/101/1001",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    }
+  ],
+  "timing": [
+    {
+      "id": "automf/9/1001",
+      "samples_ms": {
+        "reference": [
+          4.47325,
+          3.35515,
+          2.8887875,
+          3.94785,
+          5.291225,
+          3.45985,
+          3.7316
+        ],
+        "candidate": [
+          2.69475,
+          1.8204125,
+          2.3676125,
+          2.274175,
+          2.4864375,
+          2.7658125,
+          2.5586
+        ]
+      },
+      "median_ms": {
+        "reference": 3.7316,
+        "candidate": 2.4864375
+      },
+      "speedup": 1.5007817409446245,
+      "peak_bytes": {
+        "reference": 159446,
+        "candidate": 257689
+      }
+    },
+    {
+      "id": "automf/101/1001",
+      "samples_ms": {
+        "reference": [
+          32.9614,
+          44.637,
+          37.4023,
+          39.7527,
+          41.6156,
+          41.4629,
+          28.0827
+        ],
+        "candidate": [
+          21.96545,
+          16.19745,
+          15.0786,
+          22.75675,
+          13.8218,
+          15.6721,
+          11.3974
+        ]
+      },
+      "median_ms": {
+        "reference": 39.7527,
+        "candidate": 15.6721
+      },
+      "speedup": 2.536526693933806,
+      "peak_bytes": {
+        "reference": 1684810,
+        "candidate": 1684890
+      }
+    }
+  ],
+  "source_sha256": {
+    "skfuzzy/__init__.py": "a9b718ca231879e64266cbb16c3896580a589e4b972d22a2d03fbd86f5896e99",
+    "skfuzzy/cluster/normalize_columns.py": "526f35bfe89577004f4f69846cff3cee44b4e02e82d2ab69f60aadf4230815b6",
+    "skfuzzy/cluster/_cmeans.py": "f01bf2da637dbab9f11678228a450ebb70c9e3db36dbf48852b00af937a59525",
+    "skfuzzy/cluster/__init__.py": "7ba2bfa06b74d8020d4d5c89986bad5f04f314969751cd80ecb8b3894ada7b7c",
+    "skfuzzy/control/antecedent_consequent.py": "0d77874e3858381d050ff16f011b88ed1b0cd7810c7fa89c5b407a409989a9ff",
+    "skfuzzy/control/controlsystem.py": "dc2e6a4bab855436340afdf3d8227184219132156c7c8f6b0cdc6a23b9e54fdb",
+    "skfuzzy/control/exceptions.py": "7d5831888d19c609d962d8b61a0828aed96ba345188c995913288a3745254126",
+    "skfuzzy/control/fuzzyvariable.py": "db11b2d1a8c7d347c09bc51c46f050455da9dbc12b067f5439a20c4aaaceb72c",
+    "skfuzzy/control/rule.py": "47f9f6163bef8b12c11a93bc8d8ff29c5bb374ea517660f9612eea4a63bca2db",
+    "skfuzzy/control/state.py": "539bc745a3dd739f76d83f64ca7cc8f77b61aa432303870b516ee7e176592d81",
+    "skfuzzy/control/term.py": "d92fe7ec7f5ccf51fe93c5d5f2ae21bb330da180704f0c398cae5802d258e924",
+    "skfuzzy/control/visualization.py": "765d12b41537061ca0800363a059a8a0966039aa3d645f66f9939d2afc321dd0",
+    "skfuzzy/control/__init__.py": "4c48539ba795cd2cba1b5e4d9fe959ef973244f7f5f4b780db2b122c2b51a5e7",
+    "skfuzzy/defuzzify/defuzz.py": "5d882f735a7f62363cc8283587bfa8d037edfaeec76b23acc8c2aa3c2df6dc6b",
+    "skfuzzy/defuzzify/exceptions.py": "036983783f2bbbf20c4bee10b928f6d6b7b1aa8a384bb66dfdcefb77c8ce8cc0",
+    "skfuzzy/defuzzify/__init__.py": "760c4ccbd7890c06a04766d3219b3f4149c8293db6500ec7f54a9dc5a076ea25",
+    "skfuzzy/filters/fire.py": "8e03b10cbbcbab9f862f426605f1fccd383e7a3fc97290078717a7089abfe82c",
+    "skfuzzy/filters/__init__.py": "a6af5f8420d0927a542290fca66a479007e7b13f17c770a4bd5004c2833385f2",
+    "skfuzzy/fuzzymath/fuzzy_logic.py": "807e9548cfc1aa6d8b70af47845f8267e98a0b4512eb40be9739ad31691cd005",
+    "skfuzzy/fuzzymath/fuzzy_ops.py": "224772b4a2974c6ba4c9e5e120d92a951b793eafd18c72b0cb3134f22f75f5cf",
+    "skfuzzy/fuzzymath/_continuous_to_discrete.py": "51c2e25f3fed506ccb650c0ea3951869714ca35d3a471d1bbee42c06c42f4fc6",
+    "skfuzzy/fuzzymath/__init__.py": "e92c9fdfe662dbbc8cc3e001e093d97cff0f1347349b86801d4d63c79a34276e",
+    "skfuzzy/image/arraypad.py": "f70a4846982c8dc50594a4da9de21ece89cd47373d80495f63285286f96f5713",
+    "skfuzzy/image/imops.py": "eedffda2c61ae1fbe67a05ddeb6051358833fbdbe247f0bb70979e33540d8297",
+    "skfuzzy/image/metrics.py": "5c0703c72068179f41b1b9d92180e1071094c989f2b776e489dd89121cd48c56",
+    "skfuzzy/image/shape.py": "610e4eff15623128f52c868949900e535f622393d6fec14914a59cb9f99d3c27",
+    "skfuzzy/image/__init__.py": "f1c175c45db0c6573d973813c2fd2d65379be77e99b728ba4ab3a8575defd414",
+    "skfuzzy/intervals/intervalops.py": "3368c8c31725e63eacbf238669459b66d3a4768fb2ab68621b7fd0e17171a093",
+    "skfuzzy/intervals/__init__.py": "6b47cdb17c57a524af2ca97782913224a404be61dfc142483f3a1c22aba96180",
+    "skfuzzy/membership/generatemf.py": "bbd383ae24e43b2f06d58a80356b72950553fd28ea48b7ae3c57fbc08b4c3849",
+    "skfuzzy/membership/__init__.py": "97eb90e2d9c6d2bd355993196c31db2b79c6604ec47d44da8a095f4a44ba7b35"
+  },
+  "cases": 2,
+  "exact": 2,
+  "compatible": 2,
+  "reference_commit": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+  "candidate_commit": "f87bc1f8f93c266fa7ad2f5b9af8ac65c8cba201",
+  "test_summaries": {
+    "numpy2": "118 passed, 64 skipped, 4479 warnings in 17.54s",
+    "numpy1": "118 passed, 64 skipped, 13 warnings in 14.95s"
+  },
+  "ruff": "passed"
+}

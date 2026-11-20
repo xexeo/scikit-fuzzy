@@ -1,0 +1,357 @@
+{
+  "differential": [
+    {
+      "id": "boundaries/17/0.0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/17/0.2",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/17/0.5",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/17/1.0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "cuts/17/11",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "cuts/17/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/101/0.0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/101/0.2",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/101/0.5",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/101/1.0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "cuts/101/11",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "cuts/101/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/10001/0.0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/10001/0.2",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/10001/0.5",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/10001/1.0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "cuts/10001/11",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "cuts/10001/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/float32/0.0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/float32/0.25",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/float32/0.5",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/float32/1.0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/float64/0.0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/float64/0.25",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/float64/0.5",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "boundaries/float64/1.0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "dsw_add/101/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0,
+      "differing_components": []
+    },
+    {
+      "id": "dsw_sub/101/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0,
+      "differing_components": []
+    },
+    {
+      "id": "dsw_mult/101/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0,
+      "differing_components": []
+    },
+    {
+      "id": "dsw_div/101/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0,
+      "differing_components": []
+    },
+    {
+      "id": "dsw_add/1001/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0,
+      "differing_components": []
+    },
+    {
+      "id": "dsw_sub/1001/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0,
+      "differing_components": []
+    },
+    {
+      "id": "dsw_mult/1001/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0,
+      "differing_components": []
+    },
+    {
+      "id": "dsw_div/1001/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0,
+      "differing_components": []
+    }
+  ],
+  "timing": [
+    {
+      "id": "cuts/10001/101",
+      "samples_ms": {
+        "reference": [
+          21.7809,
+          21.128,
+          29.2479,
+          19.7326,
+          19.6633,
+          26.8496,
+          22.6622
+        ],
+        "candidate": [
+          2.81103125,
+          1.45091875,
+          1.51883125,
+          1.3753375,
+          1.37336875,
+          1.39641875,
+          1.49515
+        ]
+      },
+      "median_ms": {
+        "reference": 21.7809,
+        "candidate": 1.45091875
+      },
+      "speedup": 15.011798558671876,
+      "peak_bytes": {
+        "reference": 78065,
+        "candidate": 407312
+      }
+    },
+    {
+      "id": "dsw_mult/1001/101",
+      "samples_ms": {
+        "reference": [
+          126.6046,
+          65.3892,
+          87.9587,
+          74.2684,
+          87.4066,
+          47.1398,
+          49.2777
+        ],
+        "candidate": [
+          1.93850625,
+          1.93645,
+          2.05779375,
+          2.0345,
+          1.85885625,
+          1.2982,
+          1.87726875
+        ]
+      },
+      "median_ms": {
+        "reference": 74.2684,
+        "candidate": 1.93645
+      },
+      "speedup": 38.35286219628702,
+      "peak_bytes": {
+        "reference": 16249,
+        "candidate": 50184
+      }
+    },
+    {
+      "id": "dsw_div/1001/101",
+      "samples_ms": {
+        "reference": [
+          42.1956,
+          39.2974,
+          46.0651,
+          64.6169,
+          42.4105,
+          57.2318,
+          59.7704
+        ],
+        "candidate": [
+          2.11850625,
+          1.8621,
+          1.250125,
+          1.128875,
+          1.39871875,
+          1.40940625,
+          1.63661875
+        ]
+      },
+      "median_ms": {
+        "reference": 46.0651,
+        "candidate": 1.40940625
+      },
+      "speedup": 32.684046916919804,
+      "peak_bytes": {
+        "reference": 16249,
+        "candidate": 50184
+      }
+    }
+  ],
+  "source_sha256": {
+    "skfuzzy/__init__.py": "a9b718ca231879e64266cbb16c3896580a589e4b972d22a2d03fbd86f5896e99",
+    "skfuzzy/cluster/normalize_columns.py": "526f35bfe89577004f4f69846cff3cee44b4e02e82d2ab69f60aadf4230815b6",
+    "skfuzzy/cluster/_cmeans.py": "f01bf2da637dbab9f11678228a450ebb70c9e3db36dbf48852b00af937a59525",
+    "skfuzzy/cluster/__init__.py": "7ba2bfa06b74d8020d4d5c89986bad5f04f314969751cd80ecb8b3894ada7b7c",
+    "skfuzzy/control/antecedent_consequent.py": "0d77874e3858381d050ff16f011b88ed1b0cd7810c7fa89c5b407a409989a9ff",
+    "skfuzzy/control/controlsystem.py": "dc2e6a4bab855436340afdf3d8227184219132156c7c8f6b0cdc6a23b9e54fdb",
+    "skfuzzy/control/exceptions.py": "7d5831888d19c609d962d8b61a0828aed96ba345188c995913288a3745254126",
+    "skfuzzy/control/fuzzyvariable.py": "799ce9c5fb51e5ac0b13f2f7218030b6e3452738d98acff5ed42a002873213c4",
+    "skfuzzy/control/rule.py": "47f9f6163bef8b12c11a93bc8d8ff29c5bb374ea517660f9612eea4a63bca2db",
+    "skfuzzy/control/state.py": "539bc745a3dd739f76d83f64ca7cc8f77b61aa432303870b516ee7e176592d81",
+    "skfuzzy/control/term.py": "d92fe7ec7f5ccf51fe93c5d5f2ae21bb330da180704f0c398cae5802d258e924",
+    "skfuzzy/control/visualization.py": "765d12b41537061ca0800363a059a8a0966039aa3d645f66f9939d2afc321dd0",
+    "skfuzzy/control/__init__.py": "4c48539ba795cd2cba1b5e4d9fe959ef973244f7f5f4b780db2b122c2b51a5e7",
+    "skfuzzy/defuzzify/defuzz.py": "2348e9cb9560d41cb2d05efa909fd6ef120a767b11a38fcc6ff9eb42387993f5",
+    "skfuzzy/defuzzify/exceptions.py": "036983783f2bbbf20c4bee10b928f6d6b7b1aa8a384bb66dfdcefb77c8ce8cc0",
+    "skfuzzy/defuzzify/__init__.py": "760c4ccbd7890c06a04766d3219b3f4149c8293db6500ec7f54a9dc5a076ea25",
+    "skfuzzy/filters/fire.py": "8e03b10cbbcbab9f862f426605f1fccd383e7a3fc97290078717a7089abfe82c",
+    "skfuzzy/filters/__init__.py": "a6af5f8420d0927a542290fca66a479007e7b13f17c770a4bd5004c2833385f2",
+    "skfuzzy/fuzzymath/fuzzy_logic.py": "807e9548cfc1aa6d8b70af47845f8267e98a0b4512eb40be9739ad31691cd005",
+    "skfuzzy/fuzzymath/fuzzy_ops.py": "224772b4a2974c6ba4c9e5e120d92a951b793eafd18c72b0cb3134f22f75f5cf",
+    "skfuzzy/fuzzymath/_continuous_to_discrete.py": "51c2e25f3fed506ccb650c0ea3951869714ca35d3a471d1bbee42c06c42f4fc6",
+    "skfuzzy/fuzzymath/__init__.py": "e92c9fdfe662dbbc8cc3e001e093d97cff0f1347349b86801d4d63c79a34276e",
+    "skfuzzy/image/arraypad.py": "f70a4846982c8dc50594a4da9de21ece89cd47373d80495f63285286f96f5713",
+    "skfuzzy/image/imops.py": "eedffda2c61ae1fbe67a05ddeb6051358833fbdbe247f0bb70979e33540d8297",
+    "skfuzzy/image/metrics.py": "5c0703c72068179f41b1b9d92180e1071094c989f2b776e489dd89121cd48c56",
+    "skfuzzy/image/shape.py": "610e4eff15623128f52c868949900e535f622393d6fec14914a59cb9f99d3c27",
+    "skfuzzy/image/__init__.py": "f1c175c45db0c6573d973813c2fd2d65379be77e99b728ba4ab3a8575defd414",
+    "skfuzzy/intervals/intervalops.py": "29cdd14d918277a962651c527f01ca7325c382a0f410601dfe6b6f699667678d",
+    "skfuzzy/intervals/__init__.py": "6b47cdb17c57a524af2ca97782913224a404be61dfc142483f3a1c22aba96180",
+    "skfuzzy/membership/generatemf.py": "bbd383ae24e43b2f06d58a80356b72950553fd28ea48b7ae3c57fbc08b4c3849",
+    "skfuzzy/membership/__init__.py": "97eb90e2d9c6d2bd355993196c31db2b79c6604ec47d44da8a095f4a44ba7b35"
+  },
+  "cases": 34,
+  "exact": 34,
+  "compatible": 34,
+  "reference_commit": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+  "candidate_commit": "f1b6e08ac0c806f55792b1fb9f36a250f3ebc2c4",
+  "test_summaries": {
+    "numpy2": "116 passed, 64 skipped, 4479 warnings in 13.47s",
+    "numpy1": "116 passed, 64 skipped, 13 warnings in 12.47s"
+  },
+  "ruff": "passed"
+}

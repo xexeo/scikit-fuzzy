@@ -1,0 +1,7 @@
+# Python 3.11.9 on Windows; runtime and verification dependencies.
+numpy==2.4.6
+scipy==1.17.1
+matplotlib==3.11.2
+networkx==3.6.1
+packaging==26.3
+pytest==9.2.0

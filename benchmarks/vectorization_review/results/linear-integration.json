@@ -1,0 +1,2699 @@
+{
+  "differential": [
+    {
+      "id": "centroid/float32/1",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/float32/1",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/float32/4",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/float32/4",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/float32/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/float32/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/float32/10001",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/float32/10001",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/1",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/1",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/2",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/2",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/3",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/3",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 1.1859002113342285
+    },
+    {
+      "id": "centroid/random/float32/4",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/4",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/5",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/5",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/6",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/6",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/7",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/7",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/8",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/8",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/9",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/9",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/10",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/10",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 0.7368936538696289
+    },
+    {
+      "id": "centroid/random/float32/11",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/11",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/12",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/12",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/13",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/13",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/14",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/14",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/15",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/15",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/16",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/16",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/17",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/17",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/18",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/18",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/19",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/19",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/20",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/20",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/21",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/21",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/22",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/22",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/23",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/23",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/24",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/24",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/25",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/25",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/26",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/26",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 1.154618263244629
+    },
+    {
+      "id": "centroid/random/float32/27",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/27",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/28",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/28",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/29",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/29",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/30",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/30",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/31",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/31",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/32",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/32",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/33",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/33",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/34",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/34",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/35",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/35",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 0.7682828903198242
+    },
+    {
+      "id": "centroid/random/float32/36",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/36",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/37",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/37",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/38",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/38",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/39",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/39",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/40",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/40",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/41",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/41",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/42",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/42",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/43",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/43",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/44",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/44",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/45",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/45",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/46",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/46",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/47",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/47",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/48",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/48",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/49",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/49",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/50",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/50",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/51",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/51",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/52",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/52",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/53",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/53",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/54",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/54",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/55",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/55",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/56",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/56",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/57",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/57",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/58",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/58",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/59",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/59",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 1.2973809242248535
+    },
+    {
+      "id": "centroid/random/float32/60",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/60",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/61",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/61",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/62",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/62",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/63",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/63",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/64",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/64",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/65",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/65",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/66",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/66",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/67",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/67",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/68",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/68",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/69",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/69",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/70",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/70",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/71",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/71",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/72",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/72",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/73",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/73",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/74",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/74",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/75",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/75",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/76",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/76",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/77",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/77",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/78",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/78",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/79",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/79",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/80",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/80",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/81",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/81",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/82",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/82",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/83",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/83",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/84",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/84",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 1.144078254699707
+    },
+    {
+      "id": "centroid/random/float32/85",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/85",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/86",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/86",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/87",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/87",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 1.4307327270507812
+    },
+    {
+      "id": "centroid/random/float32/88",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/88",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/89",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/89",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/90",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/90",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/91",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/91",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/92",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/92",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/93",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/93",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/94",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/94",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/95",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/95",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/96",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/96",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/97",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/97",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/98",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/98",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float32/99",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float32/99",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/float64/1",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/float64/1",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/float64/4",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/float64/4",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/float64/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/float64/101",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/float64/10001",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/float64/10001",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/0",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/1",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/1",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/2",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/2",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/3",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/3",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/4",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/4",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/5",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/5",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/6",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/6",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/7",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/7",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/8",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/8",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/9",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/9",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/10",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/10",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/11",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/11",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/12",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/12",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/13",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/13",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/14",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/14",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/15",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/15",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/16",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/16",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/17",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/17",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/18",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/18",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 1.0397512008034857
+    },
+    {
+      "id": "centroid/random/float64/19",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/19",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/20",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/20",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/21",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/21",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/22",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/22",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/23",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/23",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 1.4891887629102296
+    },
+    {
+      "id": "centroid/random/float64/24",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/24",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/25",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/25",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/26",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/26",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/27",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/27",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/28",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/28",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/29",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/29",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/30",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/30",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/31",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/31",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/32",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/32",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/33",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/33",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/34",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/34",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/35",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/35",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/36",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/36",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/37",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/37",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/38",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/38",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/39",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/39",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/40",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/40",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/41",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/41",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/42",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/42",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/43",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/43",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/44",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/44",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/45",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/45",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/46",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/46",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/47",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/47",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/48",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/48",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/49",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/49",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/50",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/50",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/51",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/51",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/52",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/52",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/53",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/53",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 1.820654237742005
+    },
+    {
+      "id": "centroid/random/float64/54",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/54",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/55",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/55",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/56",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/56",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/57",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/57",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/58",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/58",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/59",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/59",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/60",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/60",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/61",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/61",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/62",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/62",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/63",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/63",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/64",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/64",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/65",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/65",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/66",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/66",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/67",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/67",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 3.163988336459443
+    },
+    {
+      "id": "centroid/random/float64/68",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/68",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/69",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/69",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/70",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/70",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/71",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/71",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/72",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/72",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/73",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/73",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/74",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/74",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/75",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/75",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 0.7090551679671391
+    },
+    {
+      "id": "centroid/random/float64/76",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/76",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/77",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/77",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/78",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/78",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/79",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/79",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/80",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/80",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/81",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/81",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/82",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/82",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/83",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/83",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/84",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/84",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/85",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/85",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 1.3036985067513474
+    },
+    {
+      "id": "centroid/random/float64/86",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/86",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/87",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/87",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/88",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/88",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/89",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/89",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/90",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/90",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/91",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/91",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/92",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/92",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/93",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/93",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/94",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/94",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/95",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/95",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/96",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/96",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/97",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/97",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/98",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/98",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/random/float64/99",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/random/float64/99",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/edge/empty",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/edge/zero",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/edge/repeated",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/edge/nan",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0
+    },
+    {
+      "id": "centroid/edge/signed",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0
+    },
+    {
+      "id": "centroid/edge/integers",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "centroid/edge/large_offset",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/edge/empty",
+      "exact": true,
+      "compatible": true,
+      "max_abs": null
+    },
+    {
+      "id": "bisector/edge/zero",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0
+    },
+    {
+      "id": "bisector/edge/repeated",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/edge/nan",
+      "exact": true,
+      "compatible": true,
+      "max_abs": null
+    },
+    {
+      "id": "bisector/edge/signed",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/edge/integers",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/edge/large_offset",
+      "exact": true,
+      "compatible": true,
+      "max_abs": 0.0
+    },
+    {
+      "id": "bisector/analytic_gap",
+      "exact": false,
+      "compatible": false,
+      "max_abs": 0.8740320488976421
+    }
+  ],
+  "timing": [
+    {
+      "id": "centroid/float64/10001",
+      "samples_ms": {
+        "reference": [
+          92.6563,
+          65.2578,
+          74.7065,
+          72.4943,
+          76.6087,
+          84.2425,
+          94.4195
+        ],
+        "candidate": [
+          2.13466875,
+          1.56718125,
+          1.7867125,
+          1.87219375,
+          1.80570625,
+          2.0768375,
+          2.0111875
+        ]
+      },
+      "median_ms": {
+        "reference": 76.6087,
+        "candidate": 1.87219375
+      },
+      "speedup": 40.91921575958685,
+      "peak_bytes": {
+        "reference": 855,
+        "candidate": 612096
+      }
+    },
+    {
+      "id": "bisector/float64/10001",
+      "samples_ms": {
+        "reference": [
+          50.0399,
+          54.1861,
+          55.8062,
+          64.658,
+          65.2246,
+          86.9635,
+          242.0949
+        ],
+        "candidate": [
+          1.41029375,
+          1.34090625,
+          1.5439625,
+          1.42955,
+          2.377125,
+          2.51226875,
+          1.71736875
+        ]
+      },
+      "median_ms": {
+        "reference": 64.658,
+        "candidate": 1.5439625
+      },
+      "speedup": 41.87796011885004,
+      "peak_bytes": {
+        "reference": 410760,
+        "candidate": 531880
+      }
+    }
+  ],
+  "source_sha256": {
+    "skfuzzy/__init__.py": "a9b718ca231879e64266cbb16c3896580a589e4b972d22a2d03fbd86f5896e99",
+    "skfuzzy/cluster/normalize_columns.py": "526f35bfe89577004f4f69846cff3cee44b4e02e82d2ab69f60aadf4230815b6",
+    "skfuzzy/cluster/_cmeans.py": "f01bf2da637dbab9f11678228a450ebb70c9e3db36dbf48852b00af937a59525",
+    "skfuzzy/cluster/__init__.py": "7ba2bfa06b74d8020d4d5c89986bad5f04f314969751cd80ecb8b3894ada7b7c",
+    "skfuzzy/control/antecedent_consequent.py": "0d77874e3858381d050ff16f011b88ed1b0cd7810c7fa89c5b407a409989a9ff",
+    "skfuzzy/control/controlsystem.py": "dc2e6a4bab855436340afdf3d8227184219132156c7c8f6b0cdc6a23b9e54fdb",
+    "skfuzzy/control/exceptions.py": "7d5831888d19c609d962d8b61a0828aed96ba345188c995913288a3745254126",
+    "skfuzzy/control/fuzzyvariable.py": "799ce9c5fb51e5ac0b13f2f7218030b6e3452738d98acff5ed42a002873213c4",
+    "skfuzzy/control/rule.py": "47f9f6163bef8b12c11a93bc8d8ff29c5bb374ea517660f9612eea4a63bca2db",
+    "skfuzzy/control/state.py": "539bc745a3dd739f76d83f64ca7cc8f77b61aa432303870b516ee7e176592d81",
+    "skfuzzy/control/term.py": "d92fe7ec7f5ccf51fe93c5d5f2ae21bb330da180704f0c398cae5802d258e924",
+    "skfuzzy/control/visualization.py": "765d12b41537061ca0800363a059a8a0966039aa3d645f66f9939d2afc321dd0",
+    "skfuzzy/control/__init__.py": "4c48539ba795cd2cba1b5e4d9fe959ef973244f7f5f4b780db2b122c2b51a5e7",
+    "skfuzzy/defuzzify/defuzz.py": "996188a4db40918039e8ba76d30c1b69d522cccb0892bc96748661a586203f15",
+    "skfuzzy/defuzzify/exceptions.py": "036983783f2bbbf20c4bee10b928f6d6b7b1aa8a384bb66dfdcefb77c8ce8cc0",
+    "skfuzzy/defuzzify/__init__.py": "760c4ccbd7890c06a04766d3219b3f4149c8293db6500ec7f54a9dc5a076ea25",
+    "skfuzzy/filters/fire.py": "8e03b10cbbcbab9f862f426605f1fccd383e7a3fc97290078717a7089abfe82c",
+    "skfuzzy/filters/__init__.py": "a6af5f8420d0927a542290fca66a479007e7b13f17c770a4bd5004c2833385f2",
+    "skfuzzy/fuzzymath/fuzzy_logic.py": "807e9548cfc1aa6d8b70af47845f8267e98a0b4512eb40be9739ad31691cd005",
+    "skfuzzy/fuzzymath/fuzzy_ops.py": "224772b4a2974c6ba4c9e5e120d92a951b793eafd18c72b0cb3134f22f75f5cf",
+    "skfuzzy/fuzzymath/_continuous_to_discrete.py": "51c2e25f3fed506ccb650c0ea3951869714ca35d3a471d1bbee42c06c42f4fc6",
+    "skfuzzy/fuzzymath/__init__.py": "e92c9fdfe662dbbc8cc3e001e093d97cff0f1347349b86801d4d63c79a34276e",
+    "skfuzzy/image/arraypad.py": "f70a4846982c8dc50594a4da9de21ece89cd47373d80495f63285286f96f5713",
+    "skfuzzy/image/imops.py": "eedffda2c61ae1fbe67a05ddeb6051358833fbdbe247f0bb70979e33540d8297",
+    "skfuzzy/image/metrics.py": "5c0703c72068179f41b1b9d92180e1071094c989f2b776e489dd89121cd48c56",
+    "skfuzzy/image/shape.py": "610e4eff15623128f52c868949900e535f622393d6fec14914a59cb9f99d3c27",
+    "skfuzzy/image/__init__.py": "f1c175c45db0c6573d973813c2fd2d65379be77e99b728ba4ab3a8575defd414",
+    "skfuzzy/intervals/intervalops.py": "3368c8c31725e63eacbf238669459b66d3a4768fb2ab68621b7fd0e17171a093",
+    "skfuzzy/intervals/__init__.py": "6b47cdb17c57a524af2ca97782913224a404be61dfc142483f3a1c22aba96180",
+    "skfuzzy/membership/generatemf.py": "bbd383ae24e43b2f06d58a80356b72950553fd28ea48b7ae3c57fbc08b4c3849",
+    "skfuzzy/membership/__init__.py": "97eb90e2d9c6d2bd355993196c31db2b79c6604ec47d44da8a095f4a44ba7b35"
+  },
+  "cases": 431,
+  "exact": 417,
+  "compatible": 417,
+  "reference_commit": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+  "candidate_commit": "7bb1897ca67157df8f14d36ab7557bfb6f2348fc",
+  "test_summaries": {
+    "numpy2": "111 passed, 64 skipped, 4479 warnings in 18.20s",
+    "numpy1": "111 passed, 64 skipped, 13 warnings in 13.12s"
+  },
+  "ruff": "passed"
+}

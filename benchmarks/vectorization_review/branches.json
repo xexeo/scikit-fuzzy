@@ -1,0 +1,100 @@
+[
+  {
+    "slug": "linear-integration",
+    "title": "Vectorize piecewise linear defuzzification and preserve area across empty spans",
+    "reference": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+    "head": "7bb1897ca67157df8f14d36ab7557bfb6f2348fc",
+    "branch": "vec/linear-integration"
+  },
+  {
+    "slug": "cuts-and-dsw",
+    "title": "Compute cut extrema and DSW interval arithmetic in array batches",
+    "reference": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+    "head": "f1b6e08ac0c806f55792b1fb9f36a250f3ebc2c4",
+    "branch": "vec/cuts-and-dsw"
+  },
+  {
+    "slug": "relation-composition",
+    "title": "Compute fuzzy relation compositions in bounded NumPy batches",
+    "reference": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+    "head": "acad0e8ba6cd0b74d8b24c5434a97cf9173d06f2",
+    "branch": "vec/relation-composition"
+  },
+  {
+    "slug": "partition-coefficient",
+    "title": "Compute the partition coefficient without constructing a Gram matrix",
+    "reference": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+    "head": "9e7e2e019d16588ecaee70ef8de7509622b83880",
+    "branch": "vec/partition-coefficient"
+  },
+  {
+    "slug": "cluster-allocation",
+    "title": "Reduce normalization temporaries and clustering history copies",
+    "reference": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+    "head": "016b35ea15564a9b9bb78bb8202633db7ebe2b0f",
+    "branch": "vec/cluster-allocation"
+  },
+  {
+    "slug": "prediction-invariants",
+    "title": "Reuse fixed distances during fuzzy c means prediction",
+    "reference": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+    "head": "9e4cde3839981356b7966f0caad548ec4e282d84",
+    "branch": "vec/prediction-invariants"
+  },
+  {
+    "slug": "membership-allocation",
+    "title": "Reduce temporary arrays in triangular trapezoidal and sigmoid generators",
+    "reference": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+    "head": "71ab4fc7b098134c4628521f9b465385f476190c",
+    "branch": "vec/membership-allocation"
+  },
+  {
+    "slug": "relation-allocation",
+    "title": "Avoid redundant input copies when constructing fuzzy relations and products",
+    "reference": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+    "head": "f7c5e159be5a658b26297989c230dcb9d9d035f2",
+    "branch": "vec/relation-allocation"
+  },
+  {
+    "slug": "local-image-means",
+    "title": "Compute local image means without gathering a four neighbor tensor",
+    "reference": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+    "head": "9e9bf2129d114478edc4c5e18b2b42b502782019",
+    "branch": "vec/local-image-means"
+  },
+  {
+    "slug": "controller-batches",
+    "title": "Batch independent controller defuzzification with bounded temporary arrays",
+    "reference": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+    "head": "4719f51f96a7eed73af4f4824f94d4f66dce082e",
+    "branch": "vec/controller-batches"
+  },
+  {
+    "slug": "automf-batches",
+    "title": "Generate custom automatic membership partitions in numerical batches",
+    "reference": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+    "head": "f87bc1f8f93c266fa7ad2f5b9af8ac65c8cba201",
+    "branch": "vec/automf-batches"
+  },
+  {
+    "slug": "rule-dependencies",
+    "title": "Wait for every producer before evaluating a dependent rule",
+    "reference": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+    "head": "f4ec23c9495ae814e717e46359fd090525e7c607",
+    "branch": "vec/rule-dependencies"
+  },
+  {
+    "slug": "rule-scheduling",
+    "title": "Avoid repeated queue shifts and graph copies when ordering rules",
+    "reference": "be7e344f3ce65845e39922aa5fc1af7412d01944",
+    "head": "d3ae4fa646005c500a6c0990c26be3a274a94426",
+    "branch": "vec/rule-scheduling"
+  },
+  {
+    "slug": "alpha-followup",
+    "title": "Bound alpha arithmetic temporaries while preserving custom callback behavior",
+    "reference": "7777a10abe4dbd7e508ae1c810f05017cae14c54",
+    "head": "e0ac0f946c6c4bdadd62a2d5ab7050beec2e2f65",
+    "branch": "fix/fuzzy-mult-div"
+  }
+]
